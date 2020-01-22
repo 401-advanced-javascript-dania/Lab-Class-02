@@ -1,4 +1,4 @@
-# LAB - Class 01
+# LAB - Class 02
 
 ## Project Name
 
@@ -28,4 +28,4 @@ non
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [UML]()
+- [UML](https://github.com/401-advanced-javascript-dania/Lab-Class-02/blob/lab2/img/IMG_20200122_020338.jpg)
