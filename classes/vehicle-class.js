@@ -18,26 +18,17 @@ class Car extends Vehicle{
         super(name,4)
     }
 
-    run(){
-        super.drive()
-    }
-    run(){
-        super.stop()
-    }
+    
 }
 class Motorcycle extends Vehicle{
   constructor(name,wheels){
       super(name,2)
   }
     
-  run(){
-    super.drive()
-}
-run(){
-    super.stop()
-}
-wheeelie(){
-    return 'wheee!'
+ 
+
+wheelie(){
+    return 'Wheee!'
 }
 }
 
